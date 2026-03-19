@@ -1,4 +1,5 @@
 # Chocolate-Sales-Performance-Dashboard
+
 🍫 Excited to share my latest Power BI project — Chocolate Sales Performance Dashboard!
 After working extensively with real sales data, I built a 4-page interactive dashboard that transforms raw numbers into actionable business insights. Here's a breakdown of the full project:
 ________________________________________
